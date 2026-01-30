@@ -10,7 +10,7 @@ The pipeline includes:
 - Creating batches for model training
 
 The data pipeline was modified by increasing the token block size during the sequence grouping step.
-
+ 
 Original block size: 128 tokens  
 Modified block size: 256 tokens  
 
